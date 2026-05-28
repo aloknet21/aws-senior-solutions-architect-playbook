@@ -1,7 +1,7 @@
 # 🚀 AWS Enterprise Architecture Playbook
 
 ## 👨‍💻 Overview
-This repository represents an **enterprise-grade AWS architecture playbook** designed for Senior Solutions Architect interviews.
+This repository represents an **enterprise-grade AWS architecture playbook** designed for Senior Solutions Architect.
 
 It covers **end-to-end cloud transformation** including:
 - Landing Zone Setup
