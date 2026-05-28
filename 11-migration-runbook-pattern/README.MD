@@ -215,7 +215,7 @@ The migration is divided into **5 key phases**:
 
 ---
 
-## 🎯 Interview Talking Points
+## 🎯 Talking Points
 
 This runbook demonstrates:
 
