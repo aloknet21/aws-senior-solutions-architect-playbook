@@ -1,0 +1,33 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="EKS Architecture">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- USERS -->
+        <mxCell id="users" value="Internet Users" style="ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="160" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- ROUTE53 -->
+        <mxCell id="route53" value="Route53" style="rounded=1;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="160" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- WAF -->
+        <mxCell id="waf" value="CloudFront + WAF" style="rounded=1;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="200" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- ALB -->
+        <mxCell id="alb" value="Application Load Balancer" style="rounded=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="240" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- EKS BOX -->
+        <mxCell id="eks-box" value="EKS Cluster (Multi AZ)" style="rounded=1;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="500" height="220" as="geometry"/>
+        </mxCell>
+
+        <!-- PODS -->
