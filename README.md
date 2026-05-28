@@ -1,4 +1,4 @@
-# 🚀 AWS Senior Solutions Architect Playbook
+# 🚀 AWS Enterprise Architecture Playbook
 
 ## 👨‍💻 Overview
 This repository represents an **enterprise-grade AWS architecture playbook** designed for Senior Solutions Architect interviews.
