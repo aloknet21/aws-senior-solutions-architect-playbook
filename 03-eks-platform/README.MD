@@ -60,7 +60,7 @@ Platform (4–6 dedicated nodes) — Prometheus + Grafana, Loki, Jaeger, Vault, 
 Karpenter handles burst scaling with spot/on-demand blended pools — up to 12 additional nodes during traffic spikes before scaling back.
 
 
-Here is a polished **GitHub-ready `README.md`** version with structure, sections, badges, and clean formatting.
+
 
 ***
 
@@ -329,7 +329,7 @@ Feel free to fork and extend this architecture for your use cases.
 MIT License
 ```
 
-Here is a **system design interview–ready version** of your architecture, with **concise explanations + tools overview** that you can directly use in README or interviews.
+
 
 ***
 
